@@ -1,0 +1,20 @@
+DPT-HepB-Hib 2
+Yellow Fever
+Penumococcal
+Measles 1
+DPT-HepB-Hib1
+Vitamin A (12month)
+BCG
+Measles
+Vitamin A (6month)
+Penumococcal
+Vitamin A
+Penumococcal
+OPV-1
+DPT-HepB-Hib-3
+Vitamin A(18 month)
+Rotavirus 2
+OPV-3
+OPV-2
+Rotavirus-1
+OPV-0  

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--Script Reference[1]-->
+<script src="zingchart/zingchart.min.js"></script>
+<script>
+  var chartData={
+    "type":"feed",  // Specify your chart type here.
+    "series":[  // Insert your series data here.
+        { "values": [35, 42, 67, 89]},
+        { "values": [28, 40, 39, 36]}
+    ]
+  };
+    "refresh":{
+    "type":"feed",
+    "transport":"websockets",
+    "url":"ws://localhost:8888/",
+    "method":"pull",
+    "interval":200
+}
+  window.onload=function(){  // Render Method[2]
+    zingchart.render({ 
+      id:'chartDiv',
+      data:chartData,
+      height:400,
+      width:600
+    });
+  };
+</script>
+</head>
+<body>
+<!--Chart Placement[3]-->
+<div id ='chartDiv'></div>
+</body>
+</html>

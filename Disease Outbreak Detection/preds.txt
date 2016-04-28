@@ -1,0 +1,5 @@
+List of actuals
+{'DPT-HepB-Hib 2': 0, 'Yellow Fever': 0, 'Penumococcal 1': 0, 'Measles 1': 0, 'DPT-HepB-Hib1': 0, 'Vitamin A (12month)': 0, 'BCG': 0, 'Measles 2 ': 0, 'Vitamin A (6month)': 0, 'Penumococcal 2': 0, 'Vitamin A': 0, 'Penumococcal 3': 0, 'OPV-1': 0, 'DPT-HepB-Hib-3': 0, 'Vitamin A(18 month)': 0, 'Rotavirus 2': 0, 'OPV-3': 7, 'OPV-2': 0, 'Rotavirus-1': 0, 'OPV-0': 0}
+List of predictions
+{'DPT-HepB-Hib 2': 0, 'Vitamin A(18 month)': 0, 'None': 0, 'DPT-HepB-Hib-3': 0, 'Measles 1': 0, 'DPT-HepB-Hib1': 0, 'Vitamin A (12month)': 0, 'BCG': 0, 'Measles 2 ': 0, 'Yellow Fever': 0, 'Vitamin A (6month)': 0, 'Vitamin A': 0, 'Penumococcal 3': 0, 'Penumococcal 2': 0, 'Penumococcal 1': 0, 'OPV-1': 0, 'Rotavirus 2': 0, 'OPV-3': 7, 'OPV-2': 0, 'Rotavirus-1': 0, 'OPV-0': 0}
+
